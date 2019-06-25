@@ -2,7 +2,6 @@
 
 This is a sample App which demonstrate basic REST services.
 <h5>
-@Author: Bins </br>
 Prerequisites : Java 8 </br> 
 IDE: Spring STS </br> 
 Build tool: Maven </br>
